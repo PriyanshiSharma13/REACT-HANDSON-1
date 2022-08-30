@@ -36,3 +36,52 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background-image: linear-gradient(#b4dbeeaa ,#f3dda78a,#e3b5ea);
+  background-attachment: fixed;
+}
+.title{
+  width: 80%;
+  margin-top: 80px;
+  margin-left: 10%;
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+  text-shadow: 3px 3px 3px orange;
+  font-size: 1.4rem;
+  color: black;
+}
+.btn1{
+  width: 24%;
+  height: 50px;
+  text-align: center;
+  border: 2px solid purple;
+  border-radius: 20px;
+  background-color: #717671;
+  font-size: 1.2rem;
+  color: palegoldenrod;
+  margin-left: 24%;
+  margin-top: 100px;
+  padding: 10px;
+}
+.btn1:hover{
+  background-color: #0F3D3E;
+  color: #FFF9CA;
+  border: 3px solid orchid;
+}
+.btn2{
+  width: 24%;
+  height: 50px;
+  text-align: center;
+  border: 2px solid purple;
+  border-radius: 20px;
+  background-color: #717671;
+  font-size: 1.2rem;
+  color: palegoldenrod;
+  margin-left: 50px; 
+  padding: 10px;
+}
+.btn2:hover{
+  background-color: #61481C;
+  color: #FFDEB4;
+  border: 3px solid #FFF80A;
+}
